@@ -33,4 +33,8 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
