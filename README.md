@@ -44,6 +44,7 @@ My LeetCode solutions in C++
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -65,4 +66,8 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
