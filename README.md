@@ -46,6 +46,7 @@ My LeetCode solutions in C++
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -70,4 +71,9 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
