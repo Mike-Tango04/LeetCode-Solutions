@@ -46,10 +46,12 @@ My LeetCode solutions in C++
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Divide and Conquer
 |  |
@@ -75,5 +77,6 @@ My LeetCode solutions in C++
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
