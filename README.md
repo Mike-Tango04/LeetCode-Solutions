@@ -75,6 +75,7 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ My LeetCode solutions in C++
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
@@ -96,4 +98,8 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
