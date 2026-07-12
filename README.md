@@ -61,6 +61,7 @@ My LeetCode solutions in C++
 | [0455-assign-cookies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0860-lemonade-change](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1748-sum-of-unique-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Divide and Conquer
@@ -115,4 +116,5 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
