@@ -45,6 +45,7 @@ My LeetCode solutions in C++
 | [0141-linked-list-cycle](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -63,6 +64,7 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -78,6 +80,7 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Merge Sort
 |  |
@@ -120,6 +123,7 @@ My LeetCode solutions in C++
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Greedy
 |  |
