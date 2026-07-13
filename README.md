@@ -40,6 +40,7 @@ My LeetCode solutions in C++
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -60,6 +61,7 @@ My LeetCode solutions in C++
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0455-assign-cookies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -126,4 +128,8 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
