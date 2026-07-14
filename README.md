@@ -73,6 +73,7 @@ My LeetCode solutions in C++
 | [0229-majority-element-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -89,6 +90,7 @@ My LeetCode solutions in C++
 | [0164-maximum-gap](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 ## Merge Sort
 |  |
 | ------- |
@@ -160,4 +162,8 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
