@@ -80,6 +80,7 @@ My LeetCode solutions in C++
 | [0735-asteroid-collision](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -115,6 +116,7 @@ My LeetCode solutions in C++
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2390-removing-stars-from-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
