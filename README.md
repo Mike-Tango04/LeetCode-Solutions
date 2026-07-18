@@ -23,6 +23,7 @@ My LeetCode solutions in C++
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -112,6 +113,7 @@ My LeetCode solutions in C++
 | [0002-add-two-numbers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [3894-traffic-signal-color](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
@@ -196,4 +198,8 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
