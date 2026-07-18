@@ -130,6 +130,7 @@ My LeetCode solutions in C++
 | [1704-determine-if-string-halves-are-alike](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2390-removing-stars-from-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3894-traffic-signal-color](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
+| [3931-check-adjacent-digit-differences](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3931-check-adjacent-digit-differences) |
 ## Simulation
 |  |
 | ------- |
