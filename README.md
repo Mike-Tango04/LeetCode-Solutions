@@ -121,6 +121,7 @@ My LeetCode solutions in C++
 | [0009-palindrome-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
