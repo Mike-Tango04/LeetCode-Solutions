@@ -90,6 +90,7 @@ My LeetCode solutions in C++
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3895-count-digit-appearances](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Divide and Conquer
@@ -105,6 +106,7 @@ My LeetCode solutions in C++
 | [0455-assign-cookies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1331-rank-transform-of-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Merge Sort
 |  |
