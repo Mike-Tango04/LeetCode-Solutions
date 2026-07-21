@@ -87,6 +87,7 @@ My LeetCode solutions in C++
 | [0735-asteroid-collision](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1331-rank-transform-of-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -211,6 +212,7 @@ My LeetCode solutions in C++
 ## Binary Search
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Bit Manipulation
 |  |
@@ -219,5 +221,6 @@ My LeetCode solutions in C++
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
