@@ -76,6 +76,7 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0219-contains-duplicate-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -167,6 +168,7 @@ My LeetCode solutions in C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Monotonic Stack
 |  |
