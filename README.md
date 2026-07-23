@@ -102,6 +102,7 @@ My LeetCode solutions in C++
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3895-count-digit-appearances](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Divide and Conquer
 |  |
 | ------- |
