@@ -47,6 +47,7 @@ My LeetCode solutions in C++
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ My LeetCode solutions in C++
 | [3895-count-digit-appearances](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3909-compare-sums-of-bitonic-parts) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
