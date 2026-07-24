@@ -64,6 +64,7 @@ My LeetCode solutions in C++
 | [1331-rank-transform-of-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [3941-password-strength](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3941-password-strength) |
+| [3945-digit-frequency-score](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +140,7 @@ My LeetCode solutions in C++
 | [3895-count-digit-appearances](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3908-valid-digit-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3908-valid-digit-number) |
+| [3945-digit-frequency-score](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
