@@ -63,6 +63,7 @@ My LeetCode solutions in C++
 | [0496-next-greater-element-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [3668-restore-finishing-order](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3941-password-strength](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Stack
@@ -102,6 +103,7 @@ My LeetCode solutions in C++
 | [1672-richest-customer-wealth](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3668-restore-finishing-order](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3895-count-digit-appearances](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
