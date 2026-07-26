@@ -92,6 +92,7 @@ My LeetCode solutions in C++
 | [0496-next-greater-element-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0860-lemonade-change) |
@@ -125,6 +126,7 @@ My LeetCode solutions in C++
 | [0229-majority-element-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2418-sort-the-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -143,6 +145,7 @@ My LeetCode solutions in C++
 | [0009-palindrome-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1323-maximum-69-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
