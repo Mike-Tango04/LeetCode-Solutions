@@ -69,6 +69,7 @@ My LeetCode solutions in C++
 | [1748-sum-of-unique-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2418-sort-the-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3668-restore-finishing-order](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3941-password-strength](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
@@ -117,6 +118,7 @@ My LeetCode solutions in C++
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2418-sort-the-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3668-restore-finishing-order](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3895-count-digit-appearances](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
