@@ -169,6 +169,7 @@ My LeetCode solutions in C++
 | [0268-missing-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1323-maximum-69-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
@@ -196,6 +197,7 @@ My LeetCode solutions in C++
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -250,6 +252,7 @@ My LeetCode solutions in C++
 | [0881-boats-to-save-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
