@@ -97,6 +97,7 @@ My LeetCode solutions in C++
 | [0128-longest-consecutive-sequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -293,6 +294,7 @@ My LeetCode solutions in C++
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
