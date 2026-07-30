@@ -172,6 +172,7 @@ My LeetCode solutions in C++
 | [0231-power-of-two](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1323-maximum-69-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -194,6 +195,7 @@ My LeetCode solutions in C++
 | [0387-first-unique-character-in-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -217,6 +219,7 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
