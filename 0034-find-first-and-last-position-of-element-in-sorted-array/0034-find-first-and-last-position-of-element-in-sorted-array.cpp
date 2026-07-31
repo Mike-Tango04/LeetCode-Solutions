@@ -8,7 +8,7 @@ public:
 
         while (start <= end) {
 
-            long long mid = start + (end - start) / 2;
+              int mid = start + (end - start) / 2;
 
             if (nums[mid] == target) {
                 ans = mid;
@@ -34,7 +34,7 @@ public:
 
         while(start <= end){
 
-             long long mid = start + (end - start)/2;
+              int mid = start + (end - start)/2;
 
              if(nums[mid] == target){
                 ans = mid;
