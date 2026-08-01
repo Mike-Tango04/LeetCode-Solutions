@@ -129,6 +129,7 @@ My LeetCode solutions in C++
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -163,6 +164,7 @@ My LeetCode solutions in C++
 | [1331-rank-transform-of-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2418-sort-the-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -322,6 +324,7 @@ My LeetCode solutions in C++
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Bit Manipulation
 |  |
