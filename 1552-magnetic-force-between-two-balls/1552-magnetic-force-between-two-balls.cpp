@@ -5,7 +5,7 @@ public:
         int ballCount = 1;
         int lastPlaced = position[0];
 
-        for (int i = 0; i < position.size(); i++) {
+        for (int i = 1; i < position.size(); i++) {
 
             if (position[i] - lastPlaced >= mid) {
                 ballCount++;
