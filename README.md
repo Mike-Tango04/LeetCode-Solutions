@@ -122,6 +122,7 @@ My LeetCode solutions in C++
 | [0860-lemonade-change](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -191,6 +192,7 @@ My LeetCode solutions in C++
 | [0367-valid-perfect-square](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -255,6 +257,7 @@ My LeetCode solutions in C++
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -364,4 +367,8 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
