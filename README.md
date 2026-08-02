@@ -55,6 +55,7 @@ My LeetCode solutions in C++
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -96,6 +97,7 @@ My LeetCode solutions in C++
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
