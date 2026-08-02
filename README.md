@@ -68,6 +68,7 @@ My LeetCode solutions in C++
 | [0387-first-unique-character-in-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0846-hand-of-straights](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
@@ -215,6 +216,7 @@ My LeetCode solutions in C++
 | [0409-longest-palindrome](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -288,6 +290,7 @@ My LeetCode solutions in C++
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Union-Find
 |  |
