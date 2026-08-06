@@ -147,6 +147,7 @@ My LeetCode solutions in C++
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -280,6 +281,7 @@ My LeetCode solutions in C++
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -324,6 +326,7 @@ My LeetCode solutions in C++
 | [0643-maximum-average-subarray-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Union-Find
 |  |
 | ------- |
