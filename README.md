@@ -136,6 +136,7 @@ My LeetCode solutions in C++
 | [0875-koko-eating-bananas](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -321,6 +322,7 @@ My LeetCode solutions in C++
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Union-Find
 |  |
@@ -358,6 +360,7 @@ My LeetCode solutions in C++
 | [0540-single-element-in-a-sorted-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -393,6 +396,7 @@ My LeetCode solutions in C++
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Interactive
 |  |
 | ------- |
