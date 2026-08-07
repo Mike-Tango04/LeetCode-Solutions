@@ -57,6 +57,7 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -229,6 +230,7 @@ My LeetCode solutions in C++
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -322,6 +324,7 @@ My LeetCode solutions in C++
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
