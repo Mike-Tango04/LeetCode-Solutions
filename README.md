@@ -83,6 +83,7 @@ My LeetCode solutions in C++
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2418-sort-the-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3668-restore-finishing-order](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -166,6 +167,7 @@ My LeetCode solutions in C++
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2418-sort-the-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3668-restore-finishing-order](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -349,6 +351,7 @@ My LeetCode solutions in C++
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Union-Find
 |  |
 | ------- |
