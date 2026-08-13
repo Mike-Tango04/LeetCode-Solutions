@@ -454,4 +454,8 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
