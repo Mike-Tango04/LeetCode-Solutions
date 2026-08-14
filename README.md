@@ -28,6 +28,7 @@ My LeetCode solutions in C++
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -108,6 +109,7 @@ My LeetCode solutions in C++
 | ------- |
 | [0001-two-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
@@ -187,6 +189,7 @@ My LeetCode solutions in C++
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0164-maximum-gap) |
