@@ -116,6 +116,7 @@ My LeetCode solutions in C++
 | [0041-first-missing-positive](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -194,6 +195,7 @@ My LeetCode solutions in C++
 | ------- |
 | [0015-3sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -479,4 +481,8 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
