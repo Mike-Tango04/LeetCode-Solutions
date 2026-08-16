@@ -171,6 +171,7 @@ My LeetCode solutions in C++
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2029-stone-game-ix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -245,6 +246,7 @@ My LeetCode solutions in C++
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -337,6 +339,7 @@ My LeetCode solutions in C++
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2029-stone-game-ix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
 | ------- |
@@ -354,6 +357,7 @@ My LeetCode solutions in C++
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 ## Sliding Window
 |  |
@@ -457,6 +461,7 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
 | ------- |
@@ -485,4 +490,16 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
