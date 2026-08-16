@@ -133,6 +133,7 @@ My LeetCode solutions in C++
 | [0238-product-of-array-except-self](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0435-non-overlapping-intervals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0506-relative-ranks) |
@@ -202,6 +203,7 @@ My LeetCode solutions in C++
 | [0229-majority-element-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -318,6 +320,7 @@ My LeetCode solutions in C++
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -347,6 +350,7 @@ My LeetCode solutions in C++
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0860-lemonade-change) |
