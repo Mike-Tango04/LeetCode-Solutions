@@ -174,6 +174,7 @@ My LeetCode solutions in C++
 | [1672-richest-customer-wealth](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1833-maximum-ice-cream-bars](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -219,6 +220,7 @@ My LeetCode solutions in C++
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2418-sort-the-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -366,6 +368,7 @@ My LeetCode solutions in C++
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
@@ -448,6 +451,7 @@ My LeetCode solutions in C++
 ## Counting Sort
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Queue
 |  |
