@@ -79,6 +79,7 @@ My LeetCode solutions in C++
 | [0560-subarray-sum-equals-k](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0846-hand-of-straights](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
@@ -157,6 +158,7 @@ My LeetCode solutions in C++
 | [1004-max-consecutive-ones-iii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -366,6 +368,7 @@ My LeetCode solutions in C++
 | [0948-bag-of-tokens](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
