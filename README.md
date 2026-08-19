@@ -174,6 +174,7 @@ My LeetCode solutions in C++
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -224,6 +225,7 @@ My LeetCode solutions in C++
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
@@ -259,6 +261,7 @@ My LeetCode solutions in C++
 | [1323-maximum-69-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1903-largest-odd-number-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -375,6 +378,7 @@ My LeetCode solutions in C++
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -486,6 +490,7 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2029-stone-game-ix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
