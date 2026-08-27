@@ -82,6 +82,7 @@ My LeetCode solutions in C++
 | [0560-subarray-sum-equals-k](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0846-hand-of-straights](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
+| [0890-find-and-replace-pattern](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -162,6 +163,7 @@ My LeetCode solutions in C++
 | [0875-koko-eating-bananas](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0890-find-and-replace-pattern](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [0948-bag-of-tokens](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -307,6 +309,7 @@ My LeetCode solutions in C++
 | [0520-detect-capital](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0890-find-and-replace-pattern](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
