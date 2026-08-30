@@ -194,6 +194,7 @@ My LeetCode solutions in C++
 | [1833-maximum-ice-cream-bars](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2029-stone-game-ix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -413,6 +414,7 @@ My LeetCode solutions in C++
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Sliding Window
