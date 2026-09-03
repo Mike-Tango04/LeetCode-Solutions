@@ -210,6 +210,7 @@ My LeetCode solutions in C++
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3909-compare-sums-of-bitonic-parts) |
@@ -290,6 +291,7 @@ My LeetCode solutions in C++
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3894-traffic-signal-color](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
