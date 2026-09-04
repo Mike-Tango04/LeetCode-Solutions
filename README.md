@@ -213,6 +213,7 @@ My LeetCode solutions in C++
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3903-smallest-stable-index-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Divide and Conquer
@@ -521,6 +522,7 @@ My LeetCode solutions in C++
 | [1004-max-consecutive-ones-iii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Interactive
 |  |
 | ------- |
