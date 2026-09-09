@@ -297,6 +297,7 @@ My LeetCode solutions in C++
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3894-traffic-signal-color](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
