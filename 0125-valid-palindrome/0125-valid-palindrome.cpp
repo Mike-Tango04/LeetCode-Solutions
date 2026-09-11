@@ -9,11 +9,11 @@ public:
             while(left < right && !isalnum(s[left])) left++ ;
             while(left < right && !isalnum(s[right])) right-- ;
             
-            if(left < right && tolower(s[left]) != tolower(s[right])) return false;
+            if(tolower(s[left]) != tolower(s[right])) return false;
             left++ ;
             right-- ;
         }
-        
+
         return true;
     }
 };
