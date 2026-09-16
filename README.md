@@ -147,6 +147,7 @@ My LeetCode solutions in C++
 | [0229-majority-element-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -234,6 +235,7 @@ My LeetCode solutions in C++
 | [0229-majority-element-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -513,6 +515,7 @@ My LeetCode solutions in C++
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0274-h-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Queue
