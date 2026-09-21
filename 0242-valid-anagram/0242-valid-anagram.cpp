@@ -1,28 +1,21 @@
 class Solution {
 public:
-    bool isAnagram(string s, string t) {
+    bool isAnagram(string op, string topi) {
 
-        vector<int> freq(26, 0);
-        vector<int> freq2(26, 0);
+        vector<int> s(26, 0);
+        vector<int> t(26, 0);
 
-        for (auto ch : s) {
-            freq[ch - 'a']++;
+        for(auto ch : op){
+            s[ch - 'a']++ ;
         }
 
-        for (auto ch : t) {
-            freq2[ch - 'a']++;
-        }
-        
-        int j = 0;
+        for(auto ch : topi) t[ch - 'a']++ ;
 
-        for (int i = 0; i < 26; i++) {
-
-            if (freq[i] != freq2[j]) {
-                return false;
-            }
-            j++;
+        for(int i = 0; i < 26; i++){
+            if(s[i] != t[i]) return false;
         }
 
         return true;
+        
     }
 };
