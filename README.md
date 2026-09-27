@@ -117,6 +117,7 @@ My LeetCode solutions in C++
 | [0735-asteroid-collision](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -343,6 +344,7 @@ My LeetCode solutions in C++
 | [0917-reverse-only-letters](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -577,6 +579,7 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hungarian Algorithm
 |  |
