@@ -1,21 +1,18 @@
 class Solution {
 public:
-    bool isAnagram(string op, string topi) {
+    bool isAnagram(string s, string t) {
 
-        vector<int> s(26, 0);
-        vector<int> t(26, 0);
+        if(s.size() != t.size()) return false;
 
-        for(auto ch : op){
-            s[ch - 'a']++ ;
-        }
+        vector<int> sf(26, 0);
+        vector<int> tf(26, 0);
 
-        for(auto ch : topi) t[ch - 'a']++ ;
+        for(auto ch : s) sf[ch - 'a']++;
+        for(auto ch : t) tf[ch - 'a']++ ;
 
         for(int i = 0; i < 26; i++){
-            if(s[i] != t[i]) return false;
+            if(sf[i] != tf[i]) return false;
         }
-
         return true;
-        
     }
 };
