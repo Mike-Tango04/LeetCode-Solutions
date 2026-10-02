@@ -340,6 +340,7 @@ My LeetCode solutions in C++
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0763-partition-labels) |
+| [0796-rotate-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -477,6 +478,7 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Bucket Sort
 |  |
 | ------- |
