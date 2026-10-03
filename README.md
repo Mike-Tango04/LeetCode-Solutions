@@ -272,6 +272,7 @@ My LeetCode solutions in C++
 | [3731-find-missing-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3913-sort-vowels-by-frequency](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3913-sort-vowels-by-frequency) |
 ## Merge Sort
 |  |
 | ------- |
@@ -367,6 +368,7 @@ My LeetCode solutions in C++
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
+| [3913-sort-vowels-by-frequency](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3913-sort-vowels-by-frequency) |
 | [3931-check-adjacent-digit-differences](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3941-password-strength) |
 ## Simulation
@@ -422,6 +424,7 @@ My LeetCode solutions in C++
 | [1704-determine-if-string-halves-are-alike](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+| [3913-sort-vowels-by-frequency](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3913-sort-vowels-by-frequency) |
 ## Greedy
 |  |
 | ------- |
