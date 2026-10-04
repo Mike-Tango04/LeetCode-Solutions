@@ -113,6 +113,7 @@ My LeetCode solutions in C++
 | [0020-valid-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -340,6 +341,7 @@ My LeetCode solutions in C++
 | [0520-detect-capital](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0890-find-and-replace-pattern) |
@@ -401,6 +403,7 @@ My LeetCode solutions in C++
 | [0152-maximum-product-subarray](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -436,6 +439,7 @@ My LeetCode solutions in C++
 | [0435-non-overlapping-intervals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0860-lemonade-change) |
@@ -584,6 +588,7 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hungarian Algorithm
