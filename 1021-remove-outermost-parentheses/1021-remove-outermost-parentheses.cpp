@@ -3,27 +3,25 @@ public:
     string removeOuterParentheses(string s) {
 
         int depth = 0;
-        string ans = "";
+        string ans;
 
-        for (auto ch : s) {
-
-            if (ch == '(') {
-
-                if (depth > 0) {
+        for(auto ch : s){
+            
+            if(ch == '('){
+                if(depth > 0){
                     ans += ch;
                 }
                 depth++;
-
-            } else {
-
+            }
+            else{
                 depth--;
-
-                if (depth > 0) {
+                if(depth > 0){
                     ans += ch;
                 }
             }
         }
 
         return ans;
+        
     }
 };
