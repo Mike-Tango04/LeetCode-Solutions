@@ -223,6 +223,7 @@ My LeetCode solutions in C++
 | [3668-restore-finishing-order](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -274,6 +275,7 @@ My LeetCode solutions in C++
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
@@ -465,6 +467,7 @@ My LeetCode solutions in C++
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
