@@ -92,6 +92,7 @@ My LeetCode solutions in C++
 | [1248-count-number-of-nice-subarrays](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -189,6 +190,7 @@ My LeetCode solutions in C++
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -266,6 +268,7 @@ My LeetCode solutions in C++
 | [1029-two-city-scheduling](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -465,6 +468,7 @@ My LeetCode solutions in C++
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -519,6 +523,7 @@ My LeetCode solutions in C++
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
