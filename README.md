@@ -389,6 +389,7 @@ My LeetCode solutions in C++
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3913-sort-vowels-by-frequency](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3913-sort-vowels-by-frequency) |
