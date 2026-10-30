@@ -218,6 +218,7 @@ My LeetCode solutions in C++
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -282,6 +283,7 @@ My LeetCode solutions in C++
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
