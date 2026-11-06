@@ -381,6 +381,7 @@ My LeetCode solutions in C++
 | [1021-remove-outermost-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1328-break-a-palindrome](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -487,6 +488,7 @@ My LeetCode solutions in C++
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
+| [1328-break-a-palindrome](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1328-break-a-palindrome) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
