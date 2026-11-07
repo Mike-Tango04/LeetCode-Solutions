@@ -222,6 +222,7 @@ My LeetCode solutions in C++
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -290,6 +291,7 @@ My LeetCode solutions in C++
 | [2126-destroying-asteroids](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -500,6 +502,7 @@ My LeetCode solutions in C++
 | [2029-stone-game-ix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
