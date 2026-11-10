@@ -171,6 +171,7 @@ My LeetCode solutions in C++
 | [0540-single-element-in-a-sorted-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0624-maximum-distance-in-arrays](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -480,6 +481,7 @@ My LeetCode solutions in C++
 | [0435-non-overlapping-intervals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0624-maximum-distance-in-arrays](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
