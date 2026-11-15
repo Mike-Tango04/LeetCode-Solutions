@@ -144,6 +144,7 @@ My LeetCode solutions in C++
 | [0041-first-missing-positive](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -441,6 +442,7 @@ My LeetCode solutions in C++
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -477,6 +479,7 @@ My LeetCode solutions in C++
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
