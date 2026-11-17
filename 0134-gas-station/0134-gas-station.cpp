@@ -5,24 +5,20 @@ public:
         int totalGas = accumulate(gas.begin(), gas.end(), 0);
         int totalCost = accumulate(cost.begin(), cost.end(), 0);
 
-        if (totalGas < totalCost) {
-            return -1;
-        }
+        if(totalGas < totalCost) return -1;
 
-        int index = 0;
-        int currGas = 0;
+        int currGas = 0, idx = 0;
 
-        for (int i = 0; i < gas.size(); ++i) {
+        for(int i = 0; i < gas.size(); i++){
 
             currGas += gas[i];
             currGas -= cost[i];
 
-            if (currGas < 0) {
+            if(currGas < 0){
                 currGas = 0;
-                index = i + 1;
+                idx = i + 1;
             }
         }
-
-        return index;
+        return idx;
     }
 };
