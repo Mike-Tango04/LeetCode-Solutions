@@ -405,6 +405,7 @@ My LeetCode solutions in C++
 | [2409-count-days-spent-together](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
