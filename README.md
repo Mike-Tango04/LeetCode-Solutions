@@ -234,6 +234,7 @@ My LeetCode solutions in C++
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -538,6 +539,7 @@ My LeetCode solutions in C++
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union-Find
 |  |
