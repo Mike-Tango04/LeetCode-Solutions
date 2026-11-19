@@ -164,6 +164,7 @@ My LeetCode solutions in C++
 | [0268-missing-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0406-queue-reconstruction-by-height](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -271,6 +272,7 @@ My LeetCode solutions in C++
 | [0242-valid-anagram](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0274-h-index) |
+| [0406-queue-reconstruction-by-height](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -692,9 +694,11 @@ My LeetCode solutions in C++
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
