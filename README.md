@@ -59,6 +59,7 @@ My LeetCode solutions in C++
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
@@ -232,6 +233,7 @@ My LeetCode solutions in C++
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -303,6 +305,7 @@ My LeetCode solutions in C++
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -523,6 +526,7 @@ My LeetCode solutions in C++
 | [2405-optimal-partition-of-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2592-maximize-greatness-of-an-array](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
