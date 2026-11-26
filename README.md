@@ -349,6 +349,7 @@ My LeetCode solutions in C++
 | [2029-stone-game-ix](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -445,6 +446,7 @@ My LeetCode solutions in C++
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3701-compute-alternating-sum](https://github.com/Mike-Tango04/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
